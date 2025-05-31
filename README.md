@@ -1,7 +1,6 @@
-# Exno-2-Prompt-Engineering
+# Exno-3-Prompt-Engineering
 
-# Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: 
-ChatGPT, Claude, Bard, Cohere Command, and Meta 
+# Ex.No-3- Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### DATE:26-04-2025                                                                         
 ### REGISTER NUMBER : 212222050055
  
